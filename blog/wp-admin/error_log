@@ -1,0 +1,1 @@
+[11-Nov-2023 23:11:57 UTC] WordPress database error Duplicate entry 'w3tc_test_dbcache_46' for key 'orblogoptions.option_name' for query INSERT INTO `orblogoptions` (`option_name`, `option_value`) VALUES ('w3tc_test_dbcache_46', 'blah') made by do_action('wp_ajax_w3tc_test_dbcache'), WP_Hook->do_action, WP_Hook->apply_filters, W3TC\SetupGuide_Plugin_Admin->test_dbcache
